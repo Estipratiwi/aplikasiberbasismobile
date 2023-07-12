@@ -1,1 +1,0 @@
-# Aplikasi_Deteksi_Kematangan_Buah_Strawberry
